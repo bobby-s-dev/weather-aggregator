@@ -26,7 +26,7 @@ A robust, production-ready weather data aggregation service built with Go and Fi
          │
 ┌────────▼────────┐
 │   Aggregator    │
-│  (Business Logic)│
+│ (Business Logic)│
 └────────┬────────┘
          │
 ┌────────▼────────┐
